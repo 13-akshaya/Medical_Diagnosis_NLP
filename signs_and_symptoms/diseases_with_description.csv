@@ -1,0 +1,10 @@
+Description,D_Name
+"pain, heart, fever, blood, pressure, dyspnea, muscle, seizure, vomiting",Cardiovascular
+"seizure, muscle, brain, headache, weakness, leg, motor, eye, speech",Neurologic
+"pain, bowel, vomiting, stool, diarrhea, obstruction, reflux, hernia, ulcer",Gastrointestinal
+"cleft, skin, hair, defect, person, lip, abnormality, crisis, birth",Genetic
+"hair, skin, appear, patch, scalp, tinea, pressure, surface, erythema",Skin
+"dyspnea, bleeding, heart, discharge, edema, cough, lung, breathing",Respiratory
+"bleeding, pregnancy, breast, heart, pain, estrogen, menses, menstruation, amenorrhea",ObGyn
+"ear, hearing, otitis, sinusitis, membrane, eye, discharge, throat, pressure",ENT
+"vision, eye, tearing, conjunctivitis, glaucoma, ptosis, pupil, cornea, conjunctival",Eye
